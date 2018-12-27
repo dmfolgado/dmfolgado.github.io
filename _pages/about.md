@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
+title: <strong>Duarte</strong> Miguel Folgado
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
