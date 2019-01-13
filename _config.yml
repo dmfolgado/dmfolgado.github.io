@@ -4,7 +4,7 @@
 name: Duarte Miguel Folgado
 email: duarte.m.folgado@gmail.com
 description: > # this means to ignore newlines until "url:"
-  My personal websitw
+  My personal website
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -19,8 +19,8 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 github_username: dmfolgado
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+linkedin_username: duarte-folgado-80a710b0
+scholar_userid: 2UsCkTQAAAAJ&hl
 orcid_id: # your ORCID ID
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -30,8 +30,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: my personal blog
+blog_description: under construction
 
 # Pagination
 paginate: 4
@@ -88,7 +88,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Folgado
 
   style: apa
   locale: en

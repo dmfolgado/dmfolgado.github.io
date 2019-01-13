@@ -2,22 +2,16 @@
 layout: about
 permalink: /
 title: <strong>Duarte</strong> Miguel Folgado
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://www.fraunhofer.pt/en/home.html">Fraunhofer AICOS</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Av. Prof. Gama Pinto, 2</p>
+    <p>1649-003 Lisbon, Portugal</p>
 
 news: true
 social: true
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a Scientist at Fraunhofer AICOS, Portugal. I received my MSc in Biomedical Engineering from Faculty of Sciences and Technology (FCT NOVA) in 2015. Since then, I have been working in the development of novel methodologies to extract information from time series data. Our goal is the application of these methodologies in the detailed evaluation of Human movement using inertial sensors. My research interests are time series analysis, machine learning, deep neural networks, time series representation and time series visualization.
